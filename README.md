@@ -4,6 +4,9 @@
 
 SchedulAI is a **multi-agent AI scheduling assistant** built using **LangGraph and Streamlit** that automates appointment booking workflows.
 
+#LIVE DEMO
+https://schedulai-8ebrgatjcutb2qvsau7n6h.streamlit.app/
+
 The system follows a state-based agent architecture where a **Triage Agent** analyzes user requests and routes scheduling tasks to a **Booking Specialist Agent**.
 
 The Booking Specialist manages:
