@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# LangGraph Memory Database
+*.db
+
+# OS Files
+.DS_Store
+
+# Editor Files
+.vscode/
+
+# Streamlit generated files
+.agents/
+.claude/

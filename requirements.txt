@@ -1,0 +1,9 @@
+streamlit
+langgraph
+langchain
+langchain-google-genai
+python-dotenv
+dateparser
+requests
+sqlalchemy
+langgraph-checkpoint-sqlite
